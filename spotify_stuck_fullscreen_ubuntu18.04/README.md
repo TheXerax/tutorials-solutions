@@ -4,4 +4,4 @@ This is a solution for the Spotify bug in Ubuntu 18.04. Sometimes, the app stuck
 
 1) Install wmctrl if you don't have it.
 
-2) Pause the music and run "wmctrl -r spotify -b toggle,fullscreen" while spotify is running.
+2) Pause the music and run "wmctrl -r spotify -b toggle,fullscreen" while Spotify is running.
