@@ -19,3 +19,5 @@ exit 0
 2) Then you need to change the file permissions:
 
 `sudo chmod 755 /etc/rc.local`
+
+3) Reboot your system and now you will see that bluetooth is disable
