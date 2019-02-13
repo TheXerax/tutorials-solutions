@@ -8,7 +8,7 @@ This simple tutorial solves the screen tearing in Ubuntu 18.04 (tested in Budgie
 
 2) Create the file */etc/X11/xorg.conf.d/20-intel.conf* (if the directory doesn't exists, you have to create it):
 
-`sudo nano /etc/X11/xorg.conf.d/20-intel.conf*`
+`sudo nano /etc/X11/xorg.conf.d/20-intel.conf`
 
 3) Then add these lines to the file:
 
